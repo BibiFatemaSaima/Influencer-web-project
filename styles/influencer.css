@@ -11,7 +11,8 @@
 .banner-image{
   background-image: url('../images/Circle\ design.svg');
   background-repeat: no-repeat;
-  background-position: right bottom;
+  background-position: center;
+  background-size: contain;
 }
 nav{
   display: flex;
